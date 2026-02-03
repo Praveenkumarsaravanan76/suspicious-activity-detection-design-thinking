@@ -17,4 +17,4 @@ False alerts reduce user trust and create frustration. Constant warnings may cau
 - Figma (basic UI exploration)
 
 ## Trello Board
-🔗 Add your Trello board link here
+🔗(https://trello.com/b/eARmP684)
